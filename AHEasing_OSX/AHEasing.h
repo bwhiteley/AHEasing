@@ -16,4 +16,6 @@ FOUNDATION_EXPORT const unsigned char AHEasingVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <AHEasing/PublicHeader.h>
 
+#import "CAKeyframeAnimation+AHEasing.h"
+#import "easing.h"
 
